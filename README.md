@@ -15,7 +15,7 @@ Download [Discord](https://discord.com/download), [Telegram](https://telegram.or
 - [Stock Informer US](https://discord.gg/YktgedtB)
     - Sign up for alerts in #stock-alert-setup channel
 - [NOWINSTOCK](https://discord.gg/VY5xVKAX)
-- [\[Mobile\] Notifications Settings 101](https://support.discord.com/hc/en-us/articles/218892547--Mobile-Notifications-Settings-101)
+- [\[Mobile\] Notifications Settings 101](https://support.discord.com/hc/en-us/articles/218892547--Mobile-Notifications-Settings-101) - Notifications help
 
 ## Telegram
 - [NowInStock.net 3060 Ti](https://t.me/joinchat/AAAAAFR2bleiE7pzv_fLIw)
@@ -23,12 +23,12 @@ Download [Discord](https://discord.com/download), [Telegram](https://telegram.or
 - [NowInStock.net 3080](https://t.me/joinchat/AAAAAFlTCjmRCD0AWNz7PA)
 - [NowInStock.net AMD CPU](https://t.me/joinchat/AAAAAFbxP25KjviJYlghWw)
 - [StockDrops](https://t.me/stockdrops)
-- [Telegram FAQ](https://telegram.org/faq)
+- [Telegram FAQ](https://telegram.org/faq) - Notifications help
 
 ## Twitter
 - [@BotRtx](https://twitter.com/BotRtx)
 - [@antonlinecom](https://twitter.com/antonlinecom)
-- [About Notifications on mobile devices](https://help.twitter.com/en/managing-your-account/notifications-on-mobile-devices)
+- [About Notifications on mobile devices](https://help.twitter.com/en/managing-your-account/notifications-on-mobile-devices) - Notifications help
 
 ## Other
 - [Newegg Shuffle](https://www.newegg.com/product-shuffle) - typically Mon-Fri 1-4pm ET
