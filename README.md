@@ -34,6 +34,7 @@ Download [Discord](https://discord.com/download), [Telegram](https://telegram.or
 ## Other
 - [Newegg Shuffle](https://www.newegg.com/product-shuffle) - typically Mon-Fri 1-4pm ET
 - [AMD Direct](https://www.amd.com/en/direct-buy/us) - typically starts Thursdays 10am-12pm ET
+- [Best Buy](https://bestbuy.com) - typically every other Tuesday 10am-12pm ET
 
 ## Help
 - [Wiki](https://github.com/climardo/restocked/wiki)
