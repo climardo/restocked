@@ -1,4 +1,4 @@
-# stockalerts
+# restocked
 ## What is this?
 This is a page that lists links to services that provide in-stock notifications for NVIDIA GeForce 3000 series GPUs and AMD Ryzen Zen 3 CPUs via Discord, Telegram and Twitter. The official websites of the services listed below. These services also track and provide alerts for other products, but this document describes only NVIDIA GeForce RTX 3000 GPUs (excluding 3090 due to cost) and AMD Ryzen Zen 3 CPUs:
 - [Stockdrops.net](https://stockdrops.net)
