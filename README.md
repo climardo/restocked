@@ -41,4 +41,4 @@ Download [Discord](https://discord.com/download), [Telegram](https://telegram.or
 
 ## Other resources
 - [FairGame](https://github.com/Hari-Nagarajan/fairgame) - Auto Checkout
-- [_streethmerchant_](https://jef.codes/streetmerchant/) - Checks stock continuously
+- [streethmerchant](https://jef.codes/streetmerchant/) - Checks stock continuously
